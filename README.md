@@ -5,7 +5,7 @@ This project implements the **Technique for Order of Preference by Similarity to
 ---
 
 ## Input Data
-<img src="static/input_data.png" alt="Input Data" width="300" height="200" />
+<img src="static/input_data.png" alt="Input Data" width="450" height="200" />
 
 ---
 
@@ -19,7 +19,7 @@ Weights specify the relative importance of each criterion in the decision-making
 - Impacts used : "+,+,-,+,-"
 
 ## Output Data
-<img src="static/output_data.png" alt="Output Data" width="500" height="200" />
+<img src="static/output_data.png" alt="Output Data" width="650" height="200" />
 
 ---
 
@@ -38,7 +38,7 @@ python 102203103.py 102203103-data.csv “1,1,1,2,1” “+,+,-,+,-” 102203103
 The project uses the following Python libraries:
 - **Pandas**
 - **NumPy**
-- **sys** (built-in library for command-line arguments)
+- **sys** 
 
 To install the required libraries, run:
 ```bash

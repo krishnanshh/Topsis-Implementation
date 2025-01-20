@@ -4,6 +4,10 @@ This project implements the **Technique for Order of Preference by Similarity to
 
 ---
 
+## Pypi Package
+<a href="https://pypi.org/project/topsis-Krishnansh-Verma-102203103/" target="_blank">PyPI: topsis-102203103-krishnansh-verma</a>
+
+
 ## Input Data
 <img src="static/input_data.png" alt="Input Data" width="450" height="200" />
 

@@ -45,9 +45,6 @@ To install the required libraries, run:
 pip install pandas numpy
 ```
 
----
-
-
 
 
  

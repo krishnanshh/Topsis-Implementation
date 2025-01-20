@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+topsis_Krishnansh_Verma_102203103.egg-info/PKG-INFO
+topsis_Krishnansh_Verma_102203103.egg-info/SOURCES.txt
+topsis_Krishnansh_Verma_102203103.egg-info/dependency_links.txt
+topsis_Krishnansh_Verma_102203103.egg-info/entry_points.txt
+topsis_Krishnansh_Verma_102203103.egg-info/requires.txt
+topsis_Krishnansh_Verma_102203103.egg-info/top_level.txt
+topsis_pypi/102203103.py
+topsis_pypi/__init__.py
